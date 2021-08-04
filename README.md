@@ -1,8 +1,8 @@
 # DeepNGlyPred
 DeepNGlyPred: a Deep Neural Network-based approach for human N-linked Glycosylation site prediction 
-1. Please install anaconda navigator 
+1. Please install anaconda navigator, 
       a. Programs were executed at anaconda version: 2020.07, recommended to install the same 
-2. Please install following modules with recommended version 
+2. Please install following modules with recommended version, 
       python              : 3.8.3.final.0,
       python-bits         : 64,
       OS                  : Linux,
