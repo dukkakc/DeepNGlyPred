@@ -5,7 +5,7 @@ DeepNGlyPred: a Deep Neural Network-based approach for human N-linked Glycosylat
 
 1. Please install anaconda navigator, 
 
-      a. Programs were executed at anaconda version: 2020.07, recommended to install the same 
+      a. Programs were executed using anaconda version: 2020.07, recommended to install the same 
       
       
 2. Please install following modules with recommended version, 
